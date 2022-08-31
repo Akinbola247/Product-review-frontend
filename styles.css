@@ -84,30 +84,3 @@
         text-decoration: none;
       }
         
-@media(max-width: 375px) {
-    
-    .productimage{
-        height: 400px;
-        width: 400px;
-        padding-right: 25px;
-        margin: -200px auto 500px auto;
-        position: absolute;
-        right: 100%;
-    }
-    .div {
-        height: 400px;
-        width: 340px;
-        margin: -75px 300px 20px -300px;
-        position: absolute;
-        top: 70%;
-        right: 50%;
-        padding-bottom: -20rem;
-
-    }
-    .dollar {
-        padding-bottom: 10rem;
-    }
-    .btn {
-        margin-top: 2rem;
-    }
-}
