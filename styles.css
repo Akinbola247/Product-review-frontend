@@ -86,17 +86,17 @@
       }
 @media (max-width: 1200px) and (min-width: 600px)  {
     .body {
-        height: 700px;
+        height: 500px;
         width: 600px;
             
     }
     
     .productimage {
         position: relative;
-        left: 150px;
-        top: 20px;
-        height: 300px;
-        width: 310px;
+        left: 200px;
+        top: 320px;
+        height: 500px;
+        width: 510px;
         margin: 20px 100px 200px auto;
         text-align: center;
         border-top-left-radius: 8px;
@@ -105,19 +105,18 @@
 
     .div {
     position: relative;
-    left: 150px;
+    left: 200px;
     bottom: 400px;
-    top: -200px;
+    top: 100px;
     background: white;
     background-color: white;
     padding: 30px 30px 30px 30px;
-    height: 395px;
-    width: 250px;
+    height: 595px;
+    width: 450px;
     border-top-right-radius: 0rem;
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
 
     }
-
 
 }
