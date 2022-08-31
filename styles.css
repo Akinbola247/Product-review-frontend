@@ -84,7 +84,7 @@
         text-decoration: none;
       }
         
-@media(max-width: 1062px) {
+@media(max-width: 375px) {
     
     .productimage{
         height: 400px;
